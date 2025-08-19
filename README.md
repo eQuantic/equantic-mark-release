@@ -6,7 +6,7 @@
 
 **Professional Markdown Editor & Note-Taking Application**
 
-[![Latest Release](https://img.shields.io/github/v/release/eQuantic/equantic-mark-release?style=for-the-badge&color=007acc)](https://github.com/eQuantic/equantic-mark-release/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/eQuantic/equantic-mark-release?style=for-the-badgehttps://img.shields.io/github/v/release/eQuantic/equantic-mark-release?style=for-the-badge&color=007acc)](https://github.com/eQuantic/equantic-mark-release/releases/latest)color=007acc)](https://github.com/eQuantic/equantic-mark-release/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/eQuantic/equantic-mark-release/total?style=for-the-badge&color=success)](https://github.com/eQuantic/equantic-mark-release/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://equantic.tech)
 
